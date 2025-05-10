@@ -11958,7 +11958,7 @@ local v122 = game:GetService("Players");
 game:GetService("StarterGui"):SetCore("SendNotification", {
 	Title = "Tấn Đạt IOS",
 	Text = "Loading...",
-	Icon = "rbxthumb://type=Asset&id=75774010417827&w=150&h=150",
+	Icon = "rbxthumb://type=Asset&id=79514156962817&w=150&h=150",
 	Duration = 10
 });
 spawn(function()
